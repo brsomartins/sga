@@ -1,0 +1,46 @@
+{% extends "boletim/base.html" %}
+
+{% block titulo %}Boletim{% endblock %}
+
+{% block conteudo %}
+  <div class="jumbotron">
+    <h1>Bem-vindo ao <span style="font-family: 'Fredericka the Great', cursive">Boletim</span>!</h1>
+    <p>Podemos começar dando uma olhada nos períodos cadastrados.</p>
+    <p><a class="btn btn-primary btn-lg" href="{% url 'boletim:periodos' %}" role="button">Ir para Períodos</a></p>
+  </div>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h2 class="panel-title"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span> Estatísticas</h2>
+    </div>
+    <div class="panel-body">
+      <ul class="list-unstyled">
+        <li><strong>{{ quantidade_disciplinas }}</strong> disciplina{{ quantidade_disciplinas|pluralize }} cadastrada{{ quantidade_disciplinas|pluralize }}</li>
+        <li>
+          <strong>{{ quantidade_matriculas }}</strong> matrícula{{ quantidade_matriculas|pluralize }} cadastrada{{ quantidade_matriculas|pluralize }}, sendo:
+          <ul>
+            <li><strong>{{ matriculas_cursando }}</strong> em curso</li>
+            <li><strong>{{ matriculas_aprovadas }}</strong> aprovaç{{ matriculas_aprovadas|pluralize:"ão,ões" }}</li>
+            <li><strong>{{ matriculas_reprovadas }}</strong> reprovaç{{ matriculas_reprovadas|pluralize:"ão,ões" }}</li>
+            <li><strong>{{ matriculas_trancadas }}</strong> trancamento{{ matriculas_trancadas|pluralize }}</li>
+          </ul>
+        </li>
+        <li><strong>{{ quantidade_professores }}</strong> professor{{ quantidade_professores|pluralize:"es" }} cadastrado{{ quantidade_professores|pluralize }}</li>
+      </ul>
+      <p>
+        <strong>Progresso no curso (disciplinas obrigatórias):</strong><br>
+        <strong>{{ total_creditos }}</strong> crédito{{ total_creditos|pluralize }} necessário{{ total_creditos|pluralize }} para a conclusão do curso<br>
+        <strong>{{ creditos_aprovados }}</strong> crédito{{ creditos_aprovados|pluralize }} aprovado{{ creditos_aprovados|pluralize }} ({{ porcentagem_aprovados|floatformat:"2" }}%)<br>
+        <strong>{{ creditos_cursando }}</strong> crédito{{ creditos_cursando|pluralize }} em curso ({{ porcentagem_cursando|floatformat:"2" }}%)<br>
+      </p>
+      <div class="progress">
+        <div class="progress-bar progress-bar-success progress-bar-striped" style="width: {{ porcentagem_aprovados|floatformat:"0" }}%; min-width: 2em">
+          <span data-toggle="tooltip" title="Créditos aprovados">{{ porcentagem_aprovados|floatformat:"2" }}%</span>
+        </div>
+        <div class="progress-bar progress-bar-warning progress-bar-striped active" style="width: {{ porcentagem_cursando|floatformat:"0" }}%; min-width: 2em">
+          <span data-toggle="tooltip" title="Créditos em curso">{{ porcentagem_cursando|floatformat:"2" }}%</span>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}

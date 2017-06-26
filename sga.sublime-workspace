@@ -1,0 +1,633 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cal",
+				"calcula_nota_final"
+			],
+			[
+				"nota",
+				"nota_maxima"
+			],
+			[
+				"dis",
+				"disciplina"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"disciplina_",
+				"disciplina_id"
+			],
+			[
+				"discip",
+				"disciplina"
+			],
+			[
+				"lis",
+				"lista_matriculas"
+			],
+			[
+				"si",
+				"SITUACAO_CHOICES"
+			],
+			[
+				"l",
+				"latest_question_list"
+			],
+			[
+				"que",
+				"question_id"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"qu",
+				"question_id"
+			],
+			[
+				"question",
+				"question_id"
+			],
+			[
+				"questi",
+				"question_id"
+			],
+			[
+				"dat",
+				"datetime"
+			],
+			[
+				"pu",
+				"pub_date"
+			],
+			[
+				"hor",
+				"horarioFinal"
+			],
+			[
+				"hora",
+				"horarioInicial"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"Fina",
+				"horarioFinal"
+			],
+			[
+				"copia",
+				"copiaProduto"
+			],
+			[
+				"Clo",
+				"CloneNotSupportedException"
+			],
+			[
+				"a",
+				"analogValue"
+			],
+			[
+				"Ligh",
+				"Lights"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"num",
+				"NUM_LAMPS"
+			],
+			[
+				"hue",
+				"hueHue"
+			],
+			[
+				"lamp_",
+				"LAMP_ON"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"arr",
+				"arrivedRight"
+			],
+			[
+				"arriv",
+				"arrivedLeft"
+			],
+			[
+				"las",
+				"lastValidTemp"
+			],
+			[
+				"cli",
+				"clientDB"
+			],
+			[
+				"conne",
+				"connect"
+			],
+			[
+				"connec",
+				"connected"
+			],
+			[
+				"http",
+				"httpReq"
+			],
+			[
+				"prin",
+				"println"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"send",
+				"sendHtmlPage"
+			],
+			[
+				"Pro",
+				"ProcessSelection"
+			],
+			[
+				"seri",
+				"Serial"
+			],
+			[
+				"led",
+				"ledNumber"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Breno Martins/Desktop/sga",
+		"/C/Users/Breno Martins/Desktop/sga/boletim",
+		"/C/Users/Breno Martins/Desktop/sga/boletim/templates",
+		"/C/Users/Breno Martins/Desktop/sga/boletim/templates/boletim",
+		"/C/Users/Breno Martins/Desktop/sga/sga"
+	],
+	"file_history":
+	[
+		"/C/Users/Breno Martins/Desktop/sga/boletim/templates/boletim/periodo.html",
+		"/C/Users/Breno Martins/Desktop/sga/boletim/urls.py",
+		"/C/Users/Breno Martins/Desktop/sga/boletim/models.py",
+		"/C/Users/Breno Martins/Desktop/sga/boletim/views.py",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Documentos/2017.1.txt",
+		"/C/Users/Breno Martins/Desktop/sga/boletim/templates/boletim/disciplina.html",
+		"/C/Users/Breno Martins/Desktop/sga/boletim/templates/boletim/periodos.html",
+		"/C/Users/Breno Martins/Desktop/sga/boletim/templates/boletim/index.html",
+		"/C/Users/Breno Martins/Desktop/sga/sga/settings.py",
+		"/D/tmp/000/000",
+		"/C/Users/Breno Martins/Downloads/uTorrent/File Recovery Ultimate 15.0.5/Active@ File Recovery Ultimate 15.0.5/key.txt",
+		"/C/Users/Breno Martins/Downloads/Instalações/ActFileRecv7.3build123Portable/Cure+/crude.nfo",
+		"/C/Users/Breno Martins/Downloads/Instalações/Active File Recovery Professional 15.0.5/Active File Recovery Professional 15.0.5 + Serial - LS Downloads/Serial.txt",
+		"/C/Users/Breno Martins/Desktop/sga/boletim/admin.py",
+		"/C/Users/Breno Martins/Desktop/sga/sga/urls.py",
+		"/C/Users/Breno Martins/Desktop/Django/mysite/polls/urls.py",
+		"/C/Users/Breno Martins/Desktop/Django/mysite/polls/templates/polls/index.html",
+		"/C/Users/Breno Martins/Desktop/Django/mysite/polls/views.py",
+		"/C/Users/Breno Martins/Desktop/Django/mysite/polls/templates/polls/detail.html",
+		"/C/Users/Breno Martins/Desktop/Django/mysite/polls/models.py",
+		"/C/Users/Breno Martins/Desktop/Django/mysite/polls/admin.py",
+		"/C/Users/Breno Martins/Desktop/Django/mysite/mysite/settings.py",
+		"/C/Users/Breno Martins/Desktop/Django/mysite/mysite/urls.py",
+		"/C/Users/Breno Martins/Google Drive/Sei Lá (D).txt",
+		"/C/Users/Breno Martins/Google Drive/Sei Lá.txt",
+		"/C/Users/Breno Martins/Google Drive/Outros/Caminho Certo/Madamento Um (Bb).txt",
+		"/C/Users/Breno Martins/Google Drive/Outros/Caminho Certo/Madamento Um.txt",
+		"/C/Users/Breno Martins/Google Drive/Músicas/tudo vai mudar.txt",
+		"/C/Users/Breno Martins/Desktop/Django/boletim/boletim/urls.py",
+		"/C/Users/Breno Martins/Google Drive/EJC/CFL SL 2016/Música/Deus em Mim.txt",
+		"/C/Users/Breno Martins/Desktop/Django/boletim/polls/views.py",
+		"/C/Users/Breno Martins/Desktop/Django/boletim/polls/urls.py",
+		"/C/AdwCleaner/AdwCleaner[C0].txt",
+		"/C/Users/Breno Martins/Google Drive/EJC/34º EJC/Meu Bom Pastor/Letra e cifra.txt",
+		"/C/Users/Breno Martins/Google Drive/EJC/32º EJC/Tão Dentro em Mim/Letra e cifra.txt",
+		"/C/Users/Breno Martins/Desktop/Django/boletim/manage.py",
+		"/C/Users/Breno Martins/Desktop/sca-master/src/main/webapp/WEB-INF/jsp/gradeDisponibilidade/gradeDisponibilidadesView.jsp",
+		"/C/Users/Breno Martins/Desktop/sca-master/src/main/webapp/WEB-INF/jsp/gradeDisponibilidade/disponibilidadesView.jsp",
+		"/C/Users/Breno Martins/Desktop/sca-master/src/main/webapp/WEB-INF/jsp/alocacaoDisciplinaDepartamento/alocaDisciplinaDepartamentoView.jsp",
+		"/C/Users/Breno Martins/Desktop/sca-master/src/main/webapp/WEB-INF/jsp/menuPrincipalView.jsp",
+		"/C/Users/Breno Martins/Desktop/sca-master/src/main/java/br/cefetrj/sca/web/controllers/FornecerGradeDisponibilidadesController.java",
+		"/C/Users/Breno Martins/Desktop/sca-master/planilhas/LEIAME.txt",
+		"/C/Users/Breno Martins/Desktop/sca-master/src/main/webapp/WEB-INF/jsp/gradeDisponibilidades/gradeDisponibilidadesView.jsp",
+		"/C/Users/Breno Martins/Desktop/sca-master/specs/contratos opsis/Contratos - Fornecer Grade de Disponibilidades.txt",
+		"/C/Users/Breno Martins/Desktop/sca-master/src/main/webapp/WEB-INF/jsp/gradeDisponibilidades/disponibilidadesView.jsp",
+		"/C/Users/Breno Martins/Desktop/sca-master/src/main/webapp/WEB-INF/jsp/gradeDisponibilidades/GradeDisponibilidades.jsp",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/10-17/GoF/src/br/cefet/apsoft/gof/composite/produtos/RelatorioProdutos.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/10-17/GoF/src/br/cefet/apsoft/gof/composite/produtos/SistemaAutomotor.java",
+		"/C/Users/Breno Martins/Desktop/sca-master-old/sca-master/pom.xml",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/10-17/GoF/src/br/cefet/apsoft/gof/composite/produtos/Produto.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/10-17/GoF/src/br/cefet/apsoft/gof/composite/produtos/PecaSimples.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/10-17/GoF/src/br/cefet/apsoft/gof/composite/produtos/CriarEstrutura.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/10-17/exemplo-Decorator (GoF)/Decorator.txt",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/10-17/GoF/src/br/cefet/apsoft/gof/prototype/Produto.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/10-17/GoF/src/br/cefet/apsoft/gof/prototype/ItemPedido.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/10-17/GoF/src/br/cefet/apsoft/gof/prototype/Pedido.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/10-17/GoF/src/br/cefet/apsoft/gof/prototype/Principal.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/10-17/GoF/src/br/cefet/apsoft/gof/singleton/VendaDAO.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/10-17/GoF/src/br/cefet/apsoft/gof/singleton/Venda.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/10-17/GoF/src/br/cefet/apsoft/gof/singleton/SingletonAnyOf3.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/10-17/GoF/src/br/cefet/apsoft/gof/singleton/Singleton.java",
+		"/C/Users/Breno Martins/Desktop/Flask/boletim/hello.py",
+		"/C/Users/Breno Martins/Desktop/Flask/boletim/templates/template.html",
+		"/C/Users/Breno Martins/Desktop/Flask/boletim/schema.sql",
+		"/C/Users/Breno Martins/Google Drive/Outros/Programação/escalas.py",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Computação Gráfica/Trabalhos/Textura e luz/Tentativa/trabalho.py",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Computação Gráfica/09-27/dado.py",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Computação Gráfica/09-27/aula.py",
+		"/C/Users/Breno Martins/Downloads/uTorrent/NOOBS_v1_9_2/INSTRUCTIONS-README.txt",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-01/IntroUnit/test/br/cefetrj/sca/dominio/TempoAulaTest.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-01/IntroUnit/test/br/cefetrj/sca/dominio/IntervaloTest.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2015.1/Metodologia Científica/Trabalho/Trabalho final/Estrutura.txt",
+		"/C/Users/Breno Martins/Google Drive/Outros/Programação/Boletim/matricula.csv",
+		"/C/Users/Breno Martins/Google Drive/Outros/Programação/Boletim/disciplina.csv",
+		"/C/Users/Breno Martins/Google Drive/Outros/Programação/Boletim/periodo.csv",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/Provas antigas/P1 (2015-2).txt",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/sca-master/src/test/java/br/cefetrj/sca/dominio/IntervaloTemporalTest.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-29/DemosJPQL/test/misc/PopularBase.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-29/DemosJPQL/test/misc/SchemaGenerator.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-29/DemosJPQL/test/misc/IntroducaoJPQL.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-29/DemosJPQL/src/empresa/domain/Departamento.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-29/DemosJPQL/src/empresa/domain/Dependente.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-29/DemosJPQL/src/empresa/domain/Empregado.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-29/DemosJPQL/src/empresa/domain/Endereco.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-29/DemosJPQL/src/empresa/domain/PecaSimples.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-29/DemosJPQL/src/empresa/domain/SistemaAutomotor.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-29/DemosJPQL/src/empresa/domain/Produto.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-29/DemosJPQL/src/empresa/domain/Projeto.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/Provas antigas/P1 (2015-2)",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/sca-master/src/test/java/br/cefetrj/sca/service/RegistrarHabilitacoesTest.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/sca-master/src/test/java/br/cefetrj/sca/dominio/HistoricoEscolarTest.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-01/Desafio.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-01/IntroUnit/src/br/cefetrj/sca/dominio/TempoAula.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-01/IntroUnit/src/br/cefetrj/sca/dominio/Intervalo.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-01/apsoft/src/br/cefetrj/lojavirtual/dominio/Pagamento.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-01/apsoft/src/br/cefetrj/lojavirtual/dominio/Venda.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-01/apsoft/src/br/cefetrj/lojavirtual/servico/RegistroPagamentoService.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-01/apsoft/src/br/cefetrj/lojavirtual/servico/RepositorioVenda.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-01/apsoft/src/br/cefetrj/lojavirtual/dominio/ItemVenda.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-01/apsoft/src/br/cefetrj/lojavirtual/dominio/Produto.java",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Arquitetura e Padrões de Software/08-01/apsoft/src/br/cefetrj/lojavirtual/dominio/Cliente.java",
+		"/C/tmp/scadb/scadb.log",
+		"/C/Users/Breno Martins/Downloads/uTorrent/Celemony Melodyne Editor v2.1.0.45 STANDALONE VST VST3 x86 x64 REPACK v3/iNFO.txt",
+		"/C/Users/Breno Martins/Downloads/Instalações/Dj Talavera-Celemony Melodyne Studio v4.0.2.003 VST VST3 AAX RTAS Standalone (32 bit) (64 bit) TRC®/Celemony Melodyne Studio v4.0.2.003 VST VST3 AAX RTAS (32 bit) (64 bit).txt",
+		"/C/Users/Breno Martins/Desktop/Auto-Tune_Evo_VST.txt",
+		"/C/Users/Breno Martins/Downloads/uTorrent/Adobe Audition CC 2015 v8.0.0.192 (64-Bit) + Crack/ReadMe.txt",
+		"/C/Users/Breno Martins/Downloads/uTorrent/Auto-Tune Evo/Auto-Tune Evo.nfo",
+		"/C/Users/Breno Martins/Downloads/Instalações/Ben12.Mldn.vstv1.01/Ben12.Melo.vstv1.01/instalar y registrar melodine vst Bay.txt",
+		"/C/Users/Breno Martins/Downloads/uTorrent/Antares Autotune Evo VST RTAS v6.0.9 PROPER -AiR/air.nfo",
+		"/C/Users/Breno Martins/Downloads/uTorrent/Celemony Melodyne Studio Edition v3.1.2.0 Incl.Keygen-AiR/air.nfo",
+		"/C/Users/Breno Martins/Downloads/uTorrent/Celemony Melodyne Studio Edition v3.1.2.0 Incl.Keygen-AiR/ReadMe-ABD-005-DL.txt",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Algoritmos em Grafos/Trabalhos/Busca em largura e busca em profundidade/busca2.py",
+		"/C/Users/Breno Martins/Google Drive/Ministério de música/Ladainha de Todos os Santos.txt",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Computação Gráfica/08-23/pyramid01.py",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Algoritmos em Grafos/Trabalhos/Busca em largura e busca em profundidade/busca.py",
+		"/C/Users/Breno Martins/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Breno Martins/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Breno Martins/Google Drive/CEFET/Disciplinas/2016.2/Algoritmos em Grafos/Trabalhos/complexAlgo/src/complexAlgo/Principal.java",
+		"/C/Users/Breno Martins/Google Drive/EJC/34º EJC/Meu Bom Pastor/Parte 1.txt",
+		"/C/Users/Breno Martins/Google Drive/EJC/34º EJC/Meu Bom Pastor/Parte 3.txt",
+		"/C/Users/Breno Martins/Google Drive/EJC/34º EJC/Meu Bom Pastor/Parte 2.txt",
+		"/C/Users/Breno Martins/Desktop/hosts",
+		"/C/Program Files (x86)/Steam/userdata/38621351/730/local/cfg/video.change1466691665.txt",
+		"/C/Program Files (x86)/Steam/userdata/38621351/730/local/cfg/video.txt",
+		"/C/Program Files (x86)/Steam/userdata/38621351/730/local/cfg/config.cfg",
+		"/C/Program Files (x86)/Steam/userdata/38621351/730/local/cfg/video.change1466690872.txt",
+		"/C/Program Files (x86)/Steam/userdata/38621351/730/local/cfg/video.change1466689047.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/botchatter.db"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"cr_geral",
+			"a",
+			"latest_question_list",
+			"periodos",
+			"polls",
+			"#",
+			"!",
+			"voltar",
+			"button",
+			"submit",
+			"disciplinas",
+			"origem",
+			"plus",
+			"disciplina",
+			"disciplinas",
+			"outroPedido",
+			"!",
+			"#",
+			"!",
+			"Láb",
+			"Sib",
+			"Mib",
+			"Ré",
+			"Fá",
+			"Sol",
+			"A",
+			"B",
+			"E",
+			"D",
+			"F",
+			"G",
+			"!",
+			"xrange",
+			"escalaNomeadaComplemento",
+			"menor",
+			"maior",
+			"if",
+			"IF",
+			"if",
+			"B",
+			"Si",
+			"Dó",
+			"Lá",
+			"Mim",
+			"Fá#m",
+			"Sol",
+			"A",
+			"a",
+			"A",
+			"G♯m",
+			"F♯",
+			"E",
+			"D♯m",
+			"C♯m",
+			"B",
+			"E",
+			"e",
+			"E",
+			"i",
+			";",
+			"􀃅",
+			"7",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"}",
+			"{",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"grafo2 = (\n#     (1, (2, 3, 4)),\n#     (2, (1, 4, 6)),\n#     (3, (1, 4)),\n#     (4, (1, 2, 3, 7)),\n#     (5, (6, 7)),\n#     (6, (2, 5, 7)),\n#     (7, (4, 5, 6)),\n#     )\n\n# grafo3 = (\n#     (1, (2, 3)),\n#     (2, (1, 3, 4, 5)),\n#     (3, (1, 2, 5, 7, 8)),\n#     (4, (2, 5)),\n#     (5, (2, 3, 4, 6)),\n#     (6, (5,)),\n#     (7, (3, 8)),\n#     (8, (3, 7)),\n#     )\n\n# grafo4 = (\n#     (1, (2, 4, 5)),\n#     (2, (1, 4, 6)),\n#     (3, (7,)),\n#     (4, (1, 2, 5)),\n#     (5, (1, 4)),\n#     (6, (2,)),\n#     (7, (3,)),\n#     )\n\n# grafo5 = (\n#     (1, (2, 3, 5)),\n#     (2, (1, 4, 6)),\n#     (3, (7,)),\n#     (4, (2,)),\n#     (5, (1, 6)),\n#     (6, (2, 5)),\n#     (7, (3,)),\n#     )",
+			"comment",
+			"||: Am | G | F | C :||\n[intro]\n\n||: Am | G | F | C :||\n[dedilhado]\nO que passou não é mais,\no tempo não volta atrás,\nentão, já foi.\nO ontem que eu chorei,\nangústia que alimentei\nno coração.\n\n| Am | G | F | C |\n[subida leve]\nDiante de Ti, meu salvador,\nsou Tua ovelha, meu bom pastor.\n| Am | G | F Em | G |\nVem me tirar de onde estou.\nMe carrega pela mão.\n\n||: C | Am | Em | F G :||\nMesmo que eu diga não\nquando mudo a direção,\nsempre me estendeu a mão\npra me levantar.\nSe eu calo a minha voz,\nnunca desistiu de nós.\nTe agradeço por estar\nsempre perto de mim, meu senhor.\n\n| Am | G | F Em | G |\n\n| Am | G | F | C |\n[subida forte]\nO que passou não é mais,\no tempo não volta atrás,\nentão, já foi.\n| Am | G | F | C |\nO ontem que eu chorei,\nangústia que alimentei\nme separou.",
+			"ti",
+			"!",
+			"Em",
+			"ip",
+			"mac",
+			"convertTemp",
+			"}",
+			" col-sm-12",
+			" col-xs-12",
+			"</b>",
+			"<b>",
+			"b",
+			"xbee",
+			"Xbee",
+			"xbee",
+			"gas",
+			"};\n",
+			"DEBUG_LED",
+			"inicializado",
+			"Read",
+			"clientB",
+			"path[i] = LAMP_ON;",
+			"setAllLamps",
+			"deletePath",
+			"setAllLamps",
+			"LAMP_OFF",
+			"setall",
+			"previousTimePath",
+			"addpa",
+			"info",
+			"secondary",
+			"   ",
+			"button1",
+			"last",
+			"debug",
+			"}\n",
+			"server",
+			"client",
+			"clientB",
+			"server",
+			"GET",
+			"get",
+			"processSelection",
+			"sendHtmlPage",
+			"connect",
+			"server",
+			"req",
+			"clientDB",
+			"previousTime",
+			"interval"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"♯",
+			"|",
+			"♯",
+			"|",
+			"G",
+			"A",
+			"D",
+			"C#",
+			"E",
+			"F#",
+			"Lá",
+			"Si",
+			"Mi",
+			"Ré",
+			"Fá",
+			"Sol",
+			"|",
+			"Sim",
+			"Lá",
+			"Sol",
+			"Fá#m",
+			"Mim",
+			"Si",
+			"Sol",
+			",",
+			"|",
+			"clientB",
+			"\\",
+			"\\\"",
+			"♯",
+			"|",
+			"'",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 54.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 305.0
+	},
+	"pinned_build_system": "",
+	"project": "sga.sublime-project",
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

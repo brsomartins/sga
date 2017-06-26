@@ -1,0 +1,27 @@
+{% extends "boletim/base.html" %}
+
+{% block titulo %}Períodos{% endblock %}
+
+{% block conteudo %}
+  <h1>Períodos</h1>
+  {% if lista_periodos %}
+    <table class="table table-hover">
+      <thead>
+        <tr>
+          <th>Período</th>
+          <!-- <th></th> -->
+        </tr>
+      </thead>
+      <tbody>
+        {% for periodo in lista_periodos.all %}
+          <tr>
+            <td><a href="{% url 'boletim:periodo' periodo.ano periodo.semestre %}">{{ periodo }}</a></td>
+            <!-- <td></td> -->
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% else %}
+    Nenhuma período cadastrado
+  {% endif %}
+{% endblock %}

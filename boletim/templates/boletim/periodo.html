@@ -1,0 +1,64 @@
+{% extends "boletim/base.html" %}
+
+{% block titulo %}{{ periodo }}{% endblock %}
+
+{% block conteudo %}
+  <h1>Período {{ periodo }}</h1>
+  {% if lista_matriculas %}
+    <div class="table-responsive">
+      <table class="table table-hover">
+        <thead>
+          <tr>
+            <th>Disciplina</th>
+            <th class="text-center">Créditos</th>
+            <th class="text-center">Média</th>
+            <th class="text-center">Situação</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for matricula in lista_matriculas.all %}
+            <tr>
+              <td><a href="{% url 'boletim:disciplina' matricula.disciplina.id %}">{{ matricula.disciplina }}</a></td>
+              <td class="text-center">
+                {% if matricula.disciplina.creditos != 0 %}
+                  {{ matricula.disciplina.creditos }}
+                {% else %}
+                  -
+                {% endif %}
+              </td>
+              <td class="text-center">
+                {% if matricula.nota_final %}
+                  <span data-toggle="tooltip" title="Definida pelo usuário">
+                  {{ matricula.nota_final }}</span>
+                {% elif matricula.calcula_nota_final %}
+                  <span data-toggle="tooltip" title="Calculada automaticamente">
+                  {{ matricula.calcula_nota_final }}</span>
+                {% else %}
+                  -
+                {% endif %}
+              </td>
+              <td class="text-center">{{ matricula.get_situacao_display|capfirst }}</td>
+              <td class="text-center"><a class="btn btn-default btn-xs" href="{% url 'boletim:matricula' matricula.id %}" role="button"><span data-toggle="tooltip" title="Detalhes da matrícula"><span class="glyphicon glyphicon-folder-open" aria-hidden="true"></span></span></a></td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <strong>Coeficiente de rendimento do período:</strong>
+      {% if periodo.calcula_cr_periodo %}
+        {{ periodo.calcula_cr_periodo }}
+      {% else %}
+        N/A
+      {% endif %}
+      <br>
+    <strong>Coeficiente de rendimento geral:</strong>
+      {% if cr_geral %}
+        {{ cr_geral }}
+      {% else %}
+        N/A
+      {% endif %}
+  {% else %}
+    Nenhuma matrícula no período
+  {% endif %}
+{% endblock %}
