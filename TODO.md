@@ -1,0 +1,2 @@
+- [ ] Na página "Disciplinas", mostrar o fluxograma do curso, colorindo as disciplinas aprovadas;
+- [ ] Inserir breadcrumbs nas páginas.
