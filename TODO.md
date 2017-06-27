@@ -1,2 +1,3 @@
 - [ ] Na página "Disciplinas", mostrar o fluxograma do curso, colorindo as disciplinas aprovadas;
-- [ ] Inserir breadcrumbs nas páginas.
+- [ ] Inserir breadcrumbs nas páginas;
+- [ ] Criar páginas de operações CRUD.
